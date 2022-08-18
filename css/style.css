@@ -1,0 +1,218 @@
+/************************************/
+/* font */
+/*************************************/
+ 
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./font/Montserrat-Bold.woff2') format('woff2'),
+        url('./font/Montserrat-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat-SemiBold';
+    src: url('./font/Montserrat-SemiBold.woff2') format('woff2'),
+        url('./font/Montserrat-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('./font/Montserrat-Regular.woff2') format('woff2'),
+        url('./font/Montserrat-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+/********************************/
+/*header*/
+/*********************************/
+a
+{
+  text-decoration: none;
+}
+.header 
+{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+    
+  width: 1912px;
+  height: 790px;
+  background-image: url(./img/header/background.jpg);
+  
+}
+.header_content
+{   display: flex;
+    justify-content: flex-start;
+    width: 1206px;
+    height: 775px;
+    background-color: ;
+}
+.header_logo
+{
+ margin-left: 30px;
+ margin-top: 3px;
+}
+.header_logo_text
+{ display: flex;
+  font-family: 'Montserrat';
+  font-size: 17px;
+  line-height: 20.72px;
+  font-style: normal;
+  color: #D7A100;
+  margin-top: -15px;
+  margin-left: 8px;
+
+}
+.text_logo2
+{
+    font-family: 'Montserrat';
+  font-size: 17px;
+  line-height: 20.72px;
+  font-style: normal;
+  color: #242424;
+  margin-left: 5px;
+}
+.Design_Studio p
+{
+    font-family: 'Montserrat-Regular';
+    font-size: 12px;
+    font-style: normal;
+    line-height: 15px;
+    color: #242424;
+    margin-top: 23px;
+    margin-left: -98px;
+    
+
+}
+.ico_watsap
+{
+    margin-left: 540px;
+    margin-top: 6px;
+}
+.ico_telegram
+{
+    margin-left: 20px;
+    margin-top: 6px;
+}
+.text_contacts a
+{   
+    display: flex;
+    margin-left: 15px;
+    margin-top: 10px;
+    font-family: Montserrat;
+    font-size: 15px;
+    line-height: 18.29px;
+    font-style: normal;
+    color: #242424;
+    opacity: 0.7;
+}
+.button1 a
+{   display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 196px;
+    height: 40px;
+    font-size: 13px;
+    line-height: 15.85px;
+    background-color: #FFBF00;;
+    color: #242424;
+    margin-left: 51px;
+}
+
+.text_create_design p
+{
+
+    
+    justify-content: flex-start;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    color: #242424;
+    margin-left: -984px;
+    margin-top: 200px;
+
+}
+
+.text_create_design2 p
+{ 
+    display: flex;
+    justify-content: center;
+    width: 810px;
+    height: 104px;
+
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    color: #242424;
+    margin-top: 260px;
+    margin-left: -990px;
+    background-color: ;
+}
+
+.text_from_300_rubles 
+{
+    display: flex;
+    justify-content: flex-start;
+
+    width: 111px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    line-height: 18.29px;
+    color: #242424;
+     margin-top: 350px;
+     margin-left: -625px;
+    
+}
+.text_Free_consultation
+{
+    display: flex;
+    font-family: 'Montserrat-Regular';
+    font-size: 15px;
+    font-style: normal;
+    line-height: 22px;
+    color: #000000;
+    margin-top: 410px;
+    margin-left: -180px;
+}
+.button2 p
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 280px;
+    height: 45px;
+    font-family: 'Montserrat-SemiBold';
+    font-size: 13px;
+    font-style: normal;
+    line-height: 16px;
+    color: #242424;
+    margin-top: 500px;
+    margin-left: -280px;
+    background-color: #FFBF00;
+}
+
+
+
+
+
+/****************************************************/
+/*Content*/
+/***************************************************/
+
+
+
+
+/************************************************/
+/*footer*/
+/************************************************/

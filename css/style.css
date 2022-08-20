@@ -29,7 +29,10 @@
     font-display: swap;
 }
 
-
+body
+{
+  margin: 0px;
+}
 
 /********************************/
 /*header*/
@@ -210,8 +213,406 @@ a
 /*Content*/
 /***************************************************/
 
+.main
+{ display: flex;
+    justify-content: center;
+    align-items: flex-start;
+  width: 1912px;
+  height: 547px;
+}
+
+.main_content
+{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 1206px;
+    height: 547px;
+    
+}
+
+.img_pngwing1 img
+{
+    
+    margin-left: 1px;
+    margin-top: 23px;
+
+}
+
+.text_individuality_in_each
+{
+    display: flex;
+    width: 650px;
+    height: 70px;
+    margin-top: -430px;
+    margin-left: 50px;
+}
+
+.text_individuality_in_each p 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Montserrat;
+    font-size: 40px;
+    line-height: 55px;
+    font-style: normal;
+}
+
+.text_individuality_in_each2 p 
+{    display: flex;
+    align-items: flex-end;
+    font-family: 'Montserrat-Regular';
+    font-size: 15px;
+    line-height: 30px;
+    font-style: normal;
+    
+}
+
+.text_individuality_in_each2
+{
+    display: flex;
+
+    margin-top: -200px;
+
+    margin-left: -505px;
+
+   
+}
 
 
+.text_Concept_Design p
+{
+   
+   white-space: nowrap;
+   font-family: 'Montserrat';
+   font-size: 15px;
+   font-style: normal;
+   line-height: 18.29px;
+   color: #242424;
+   position: absolute; top: 990px; right: 495px;
+
+}
+
+.text_Concept_Design2 p 
+{
+  font-family: 'Montserrat-Regular';
+  font-size: 15px;
+  line-height: 30px;
+  color: #000000;
+  width: 440px;
+  position: absolute;top: 1020px;right: 455px;
+}
+
+.main_content3
+{
+    width: 1912px;
+    height: 504px;
+    position: absolute; top: 1300px; right: ;
+}
+
+.content3
+{   
+   
+    width: 814px;
+    height: 504px;
+}
+
+.img-modern-house-interior2
+ {
+   width: 1125px;
+   height: 164px;
+   position: absolute; top: 315px; right: ;
+}
+
+.text_people_who_decide_to_make_repairs p
+{
+  font-family: 'Montserrat';
+  font-size: 40px;
+  line-height: 55px;
+  width: 770px;
+  position: absolute; top: 98px; left: 1000px;
+}
+
+.text2_people_who_decide_to_make_repairs p 
+{
+    font-family: 'Montserrat-Regular';
+    font-size: 15px;
+    line-height: 30px;
+    color: #000000;
+    width: 400px;
+    position: absolute; top: 300px; left: 1000px;
+}
+
+.line1
+{   
+    width: 257px;
+    height: 9px;
+    background-color: #FFBF00;
+    position: absolute; top: 135px; left: 995px;
+}
+
+.line2
+{   
+    width: 478px;
+    height: 9px;
+    background-color: #FFBF00;
+    position: absolute; top: 245px; left: 997px;
+}
+
+.main_content4
+{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 1912px;
+    height: 1350px;
+    
+
+}
+
+
+
+.content_container
+{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 1206px;
+    height: 1000px;
+    margin-top: 500px;
+    
+}
+
+.text_Design_project_repair
+{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 680px;
+    margin-left: 200px;
+
+}
+
+.text_Design_project_repair p
+{    
+
+    font-family: 'Montserrat';
+    font-size: 40px;
+    line-height: 55px;
+    color: #242424;
+    z-index: 999;
+}
+
+.line3
+{
+    width: 587px;
+    height: 9px;
+    background-color: #FFBF00;
+    position: absolute; top: 1875px; left: 715px;
+}
+
+.ico_house-plan1 
+{
+    position: absolute; top: 2050px; left: 400px;
+ 
+}
+
+.ico2_house-plan1
+{
+   position: absolute; top: 2050px; left: 420px;
+ 
+}
+
+.text_house-plan1
+{
+    font-family: 'Montserrat-Regular';
+    font-size: 15px;
+    line-height: 30px;
+    width: 420px;
+  
+ position: absolute; top: 2025px; left: 540px;
+
+}
+
+.ico3_house-plan1
+{
+    position: absolute; top: 2250px; left: 400px;
+}
+
+.ico-floor1
+{
+   
+   position: absolute; top: 2280px; left: 420px;
+
+}
+
+
+.text_house-plan1
+{
+    font-family: 'Montserrat-Regular';
+    font-size: 15px;
+    line-height: 30px;
+    width: 420px;
+
+}
+
+.text2_house-plan1 
+{
+    font-family: 'Montserrat-Regular';
+    font-size: 15px;
+    line-height: 30px;
+    width: 380px;
+    position: absolute; top: 2260px; left: 530px;
+}
+
+.ico4_house-plan1
+{    
+    position: absolute; top: 2250px; left: 950px;
+
+}
+
+.ico5_house-plan1
+{
+    position: absolute; top: 2280px; left: 970px;
+}
+
+.text3_house-plan1
+{   font-family: 'Montserrat-Regular';
+    font-size: 15px;
+    line-height: 30px;
+    width: 460px;
+    position: absolute; top: 2250px; left: 1070px;
+}
+
+.ico6_house-plan1
+{
+     position: absolute; top: 2050px; left: 950px;
+}
+
+.ico7_house-plan1
+{
+     position: absolute; top: 2050px; left: 970px;
+}
+
+.text4_house-plan1
+{
+     font-family: 'Montserrat-Regular';
+    font-size: 15px;
+    line-height: 30px;
+    width: 385px;
+    position: absolute; top: 2040px; left: 1070px;
+}
+
+.ico8_house-plan1
+{
+     position: absolute; top: 2450px; left: 400px;
+}
+
+.ico9_house-plan1
+{
+    position: absolute; top: 2485px; left: 415px;
+}
+
+.text5_house-plan1
+{
+    font-family: 'Montserrat-Regular';
+    font-size: 15px;
+    line-height: 30px;
+    width: 1000px;
+    position: absolute; top: 2485px; left: 530px;
+}
+
+.button_I_want_so
+{  
+    width: 280px;
+    height: 45px;
+    background-color: #FFBF00;
+   position: absolute; top: 2640px; left: 800px;
+}
+
+
+.button_I_want_so p
+{    
+
+    display: flex;
+    font-family: 'Montserrat-SemiBold';
+    font-size: 13px;
+    line-height: 15.85px;
+    color: #242424;
+    margin-left: 110px;
+    margin-top: 15px;
+   
+}
+
+
+.main_content5
+{   display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 1912px;
+    height: 800px;
+}
+
+.content_container_2
+{
+    width: 1260px;
+    height: 700px;
+      
+}
+
+.text_Our_projects
+{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.text_Our_projects p
+{
+    font-family: 'Montserrat';
+    font-size: 40px;
+    line-height: 55px;
+    color: #242424;
+    z-index: 9999;
+}
+
+.text2_Our_projects
+{
+   display: flex;
+   justify-content: center;
+   margin-top: 10px;
+}
+
+.text2_Our_projects p
+{
+    font-family: 'Montserrat';
+    font-size: 15px;
+    line-height: 18.29px;
+    color: #242424;
+}
+
+.line4
+{
+    width: 190px;
+    height: 10px;
+    background-color: #FFBF00;
+    position: relative; top: 97px; left: 600px;
+}
+
+#carouselExampleControls1
+{
+    width: 553px;
+    height: 335px;
+    position: relative;top: 90px; left: 50px;
+}
+
+#carouselExampleControls2
+{
+    width: 553px;
+    height: 335px;
+    position: relative;top: -330px; left: 600px;
+}
 
 /************************************************/
 /*footer*/

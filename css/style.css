@@ -614,6 +614,305 @@ a
     position: relative;top: -330px; left: 600px;
 }
 
+.main_content6
+{   display: flex;
+    justify-content: center;
+    width: 1912px;
+    height: 450px;
+    margin-top: -100px;
+    
+}
+
+.content_container_3
+{   display: flex;
+    flex-direction: column;
+    width: 1206px;
+    height: 450px;
+}
+
+.blok1
+{  justify-content: center;
+  display: flex;
+  width: 1206px;
+  height: 60px;
+ 
+}
+
+.line6
+{
+   width: 303px;
+   height: 10px;
+   background-color: #FFBF00;
+  margin-top: -33px;
+
+}
+
+.text_aesthetic_code
+{
+   font-family: 'Montserrat';
+   font-size: 40px;
+   line-height: 55px;
+   color: #242424;
+
+}
+
+.blok2
+{
+    display: flex;
+    justify-content: flex-end;
+  width: 650px;
+  height: 250px;
+  margin-top: 104px;
+  margin-left: 30px;
+ 
+}
+
+
+.blok3
+{ 
+  display: flex;
+  width: 448px;
+  height: 141px;
+  margin-top: -200px;
+  margin-left: 716px;
+  
+}
+
+.text2_aesthetic_code
+{
+    font-family: 'Montserrat-Regular';
+    font-size: 15px;
+    line-height: 30px;
+    color: #000000;
+
+}
+
+
+.main_content7
+{   
+
+    display: flex;
+    justify-content: center;
+    width: 1912px;
+    height: 700px;
+
+
+    background-color: #1106e3;
+}
+
+.content_container_5
+{
+   display: flex;
+   flex-direction: column;
+   width: 1206px;
+   height: 700px;
+   background-color: #069651;
+}
+
+.container_5_blok1
+{
+  display: flex;
+  justify-content: center;
+  width: 1206px;
+  height: 60px;
+  background-color: #bbe8d2;
+}
+
+.text_How_it_works
+{ 
+    font-family: 'Montserrat';
+    font-size: 40px;
+    line-height: 55px;
+    color: #242424;
+}
+
+.line5
+{
+    width: 280px;
+    height: 10px;
+    margin-top: -34px;
+    margin-left: 85px;
+    background-color: #FFBF00;
+}
+
+.container_blok2
+{
+  display: flex;
+  width: 700px;
+  height: 20px;
+     margin-top: 30px;
+    margin-left: 261px;
+  background-color: #bbe8d2;
+}
+
+.text2_How_it_works
+{
+  font-family: 'Montserrat';
+    font-size: 15px;
+    line-height: 18.29px;
+    color: #242424;
+
+}
+
+.container_blok3
+{
+    display: flex;
+    width: 1205px;
+    height: 90px;
+    margin-top: 49px;
+
+    background-color: #bbe8d2;
+}
+
+.ico-01
+{
+    margin-left: 31px;
+}
+
+.ico-orker1
+{
+    margin-left: -100px;
+}
+
+.ico-02
+{
+    margin-left: 320px;
+}
+
+.ico-flowchart1
+{
+    margin-left: -140px;
+}
+
+.ico-3
+{
+    margin-left: 330px;
+}
+
+.ico-testing1
+{
+ margin-left: -140px;
+}
+
+.container_blok4
+{
+    display: flex;
+    width: 1000px;
+    height: 20px;
+    margin-top: 100px;
+    margin-left: -885px;
+     background-color: #bbe8d2;
+
+}
+
+.text_Step1
+{
+  font-family: 'Montserrat-Regular';
+  font-size: 15px;
+  line-height: 30px;
+  color: #000000;
+  margin-left: 31px;
+}
+
+.text_Step2
+{
+    font-family: 'Montserrat-Regular';
+  font-size: 15px;
+  line-height: 30px;
+  color: #000000;
+  margin-left: 330px;
+}
+
+.text_Step3
+{
+    font-family: 'Montserrat-Regular';
+  font-size: 15px;
+  line-height: 30px;
+  color: #000000;
+  margin-left: 328px;
+}
+
+.container_blok5
+{
+    display: flex;
+    align-items: flex-start;
+    width: 1130px;
+    height: 20px;
+    margin-top: 130px;
+    margin-left: -1000px;
+    background-color: #bbe8d2;
+}
+
+.text1_blok5
+{
+    font-family: 'Montserrat';
+    font-size: 15px;
+    line-height: 18.29px;
+    color: #242424;
+    margin-left: 30px;
+
+
+
+}
+
+.text2_blok5
+{
+    font-family: 'Montserrat';
+    font-size: 15px;
+    line-height: 18.29px;
+    color: #242424;
+    margin-left: 255px;
+}
+
+.text3_blok5
+{
+    font-family: 'Montserrat';
+    font-size: 15px;
+    line-height: 18.29px;
+    color: #242424;
+    margin-left: 260px;
+}
+
+
+.container_blok6
+{   display: flex;
+    width: 1170px;
+    height: 240px;
+    margin-top: 160px;
+    margin-left: -1130px;
+
+
+    background-color: #bbe8d2;
+}
+
+.text1_blok6 p
+{   
+    width: 362px;
+    height: 106px;
+   font-family: 'Montserrat-Regular';
+  font-size: 15px;
+  line-height: 30px;
+  color: #000000;
+  margin-left: 30px;
+}
+
+.text2_blok6
+{
+     font-family: 'Montserrat-Regular';
+  font-size: 15px;
+  line-height: 30px;
+  color: #000000;
+  margin-left: 25px;
+}
+.text3_blok6 p
+{   width: 362px;
+    height: 108px;
+     font-family: 'Montserrat-Regular';
+  font-size: 15px;
+  line-height: 30px;
+  color: #000000;
+  margin-left: 12px;
+}
 /************************************************/
 /*footer*/
 /************************************************/

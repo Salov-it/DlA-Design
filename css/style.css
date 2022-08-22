@@ -1043,6 +1043,118 @@ a
   color: #242424;
   margin-top: 15px;
 }
+
+
+
+.main_content8
+{   display: flex;
+    justify-content: center;
+    width: 1912px;
+    height: 700px;
+
+    background-color: #d20ab3;
+
+}
+
+.container6
+{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 1206px;
+   height: 700px;
+   background-color: #085caa;
+}
+
+.containet6_blok1
+{
+    display: flex;
+    width: 180px;
+    height: 20px;
+    margin-left: -20px;
+    background-color: #089859;
+}
+
+.containet6_blok2
+{
+    display: flex;
+    width: 400px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 200px;
+
+    background-color: #089859;
+}
+
+.text1_containet6_blok1
+{
+    font-family: 'Montserrat';
+    font-size: 15px;
+    line-height: 18.29px;
+    color: #242424;
+}
+
+.text2_containet6_blok2
+{
+    font-family: 'Montserrat';
+    font-size: 40px;
+    line-height: 55px;
+    color: #242424;
+}
+
+.container6_blok3
+{
+    display: flex;
+    margin-left: -780px;
+    margin-top: -100px;
+}
+
+.container6_blok4
+{   display: flex;
+    width: 25px;
+    height: 75px;
+    margin-top: -310px;
+    margin-right: 180px;
+}
+
+.container6_blok5
+{
+    display: flex;
+    width: 650px;
+    height: 200px;
+    margin-left: 530px;
+    margin-top: -73px;
+    background-color: #089859;
+}
+
+.ico_check_mark
+{
+  width: 25px;
+  height: 65px;
+}
+
+.text_container6_blok4 h3 
+{  
+    display: flex;
+   font-family: 'Montserrat-Regular';
+   font-size: 15px;
+   line-height: 30px;
+   color: #000000;
+   width: 648px;
+
+}
+
+
+.text_container6_blok4 p
+{    
+    display: flex;
+     font-family: 'Montserrat-Regular';
+   font-size: 15px;
+   line-height: 30px;
+   width: 686px;
+   color: #000000;
+   margin-top: 20px;
+}
 /************************************************/
 /*footer*/
 /************************************************/

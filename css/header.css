@@ -2,7 +2,7 @@
 {
   display: flex;
   justify-content: center;
-  width: 1920px;
+  width: 1910px;
   height: 800px;
   background-image: url(./img/header/background.jpg);
 }
@@ -13,7 +13,6 @@
   flex-wrap: wrap;
   width: 1176px;
   height: 800px;
-  background-color: #6689ac;
 }
 
 .blok1 
@@ -39,10 +38,6 @@
 
 }
 
-span
-{
-  color: #D7A100;
-}
 .blok1__text2-logo p
 {  
   
@@ -97,8 +92,8 @@ span
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 810px;
-  height: 316px;
+  width: 830px;
+  height: 440px;
   margin-left: 198px;
 }
 .blok2__title 

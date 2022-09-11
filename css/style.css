@@ -5,6 +5,10 @@
 
 @import url('header.css');
 
+/*контент*/
+
+@import url('content.css');
+
 /* Заголовки */
 h1
 {

@@ -155,9 +155,8 @@
   flex-direction: column;
   align-items: center;
   width: 1176px;
-  height: 600px;
+  height: 800px;
   margin-top: -50px;
-  background-color: #14D3FA;
 }
 
 .main_container3__title h2
@@ -181,6 +180,133 @@
  
   background-color: #FFBF00;
 }
+
+.main_container3__ico1 
+{
+  width: 110px;
+  height: 144px;
+  position: absolute; top: ; left: 420px;
+  margin-top: 140px;
+}
+.main_container3__ico1-1
+{
+  position: relative; top: -147px; left: 20px;
+}
+
+.main_container3__text1 p
+{
+  width: 428px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 5px;
+  margin-right: 400px;
+}
+
+.main_container3__ico2 
+{
+  width: 110px;
+  position: absolute; left: 1000px;
+  margin-top: 140px;
+}
+.main_container3__ico2-2 
+{
+  position: absolute; left: 20px;
+}
+
+.main_container3__text2 p
+{
+  width: 418px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: -105px;
+  margin-left: 740px;
+}
+
+.main_container3__ico3 
+{
+  width: 110px;
+  position: absolute;  left: 420px;
+  margin-top: 350px;
+}
+.main_container3__ico3-3 
+{
+  position: absolute; left: 20px;
+  margin-top: 35px;
+}
+
+.main_container3__text3 p
+{
+  width: 380px;
+  font-weight: 400;
+  line-height: 30px;
+  position: absolute; left: 550px;
+  margin-top: 100px;
+}
+
+.main_container3__ico4 
+{
+  width: 110px;
+  position: absolute; left: 1000px;
+  margin-top: 350px;
+}
+.main_container3__ico4-4 
+{
+  position: absolute; left: 10px;
+  margin-top: 30px;
+}
+
+.main_container3__text4 
+{
+  width: 448px;
+  font-weight: 400;
+  line-height: 30px;
+  position: absolute; left: 1125px;
+  margin-top: 350px;
+}
+
+.main_container3__ico5 
+{
+  width: 110px;
+  position: absolute; left: 420px;
+  margin-top: 570px;
+}
+.main_container3__ico5-5 
+{
+  position: absolute; left: 20px;
+  margin-top: 35px;
+}
+
+.main_container3__text5 
+{
+  width: 1006px;
+  font-weight: 400;
+  line-height: 30px;
+  position: absolute; left: 550px;
+  margin-top: 600px;
+}
+
+.main_container3__button 
+{
+  width: 280px;
+  height: 45px;
+  margin-top: 480px;
+  background-color: #FFBF00;;
+}
+
+.main_container3__button p
+{  
+  font-family: 'Montserrat';
+  font-weight: 600;
+  color: #242424;
+  text-align: center;
+}
+
+
+
+
+
+
+
 
 
 

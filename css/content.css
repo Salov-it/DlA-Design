@@ -302,6 +302,151 @@
 }
 
 
+.main_container4 
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1176px;
+  height: 630px;
+  background-color: #4FD6E3;
+}
+
+.main_container4__title 
+{
+  width: 754px;
+  font-weight: 700;
+  line-height: 55px;
+  font-size: 40px;
+  margin-top: 60px;
+  margin-left: 420px;
+  position: relative;
+  z-index: 2;
+}
+
+.main_container4__text 
+{  
+  width: 406px;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  line-height: 18.29px;
+  color: #242424;
+  margin-top: 10px;
+}
+
+.main_container4__line 
+{
+  width: 197px;
+  height: 10px;
+  position: absolute; left: 925px;
+  margin-top: 95px;
+  z-index: 1;
+  background-color: #FFBF00;
+}
+
+#carouselExampleControls
+{
+   margin-top: 40px;
+}
+
+.main_container4__text2 
+{
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 18.29px;
+  color: #242424;
+  margin-top: 70px;
+}
+
+
+.main_container5 
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1176px;
+  height: 400px;
+  background-color: #58FDDE;
+}
+.main_container5__title 
+{
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 55px;
+  color: #242424;
+  margin-top: 20px;
+  position: relative;
+  z-index: 2;
+}
+
+.main_container5__line 
+{
+  width: 310px;
+  height: 10px;
+  position: absolute; left: 648px;
+  margin-top: 55px;
+  z-index: 1;
+  background-color: #FFBF00;
+}
+
+.main_container5__ico 
+{
+  position: absolute; left: 380px;
+  margin-top: 170px;
+}
+
+.main_container5__text 
+{ 
+  width: 448px;
+  line-height: 30px;
+  position: absolute; left: 1030px;
+  margin-top: 220px;
+}
+
+
+.main_container6 
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1176px;
+  height: 700px;
+  background-color: #64C5FA;
+}
+
+.main_container6__title 
+{
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 55px;
+  margin-top: 60px;
+  position: relative;
+  z-index: 2;
+}
+
+.main_container6__line 
+{
+  width: 275px;
+  height: 10px;
+  position: absolute; left: 850px;
+  margin-top: 98px;
+  z-index: 1;
+  background-color: #FFBF00;
+}
+
+.main_container6__text 
+{
+  width: 684px;
+  font-weight: 700px;
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
 
 
 

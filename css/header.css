@@ -75,11 +75,14 @@
   font-family: 'Montserrat-SemiBold';
   font-size: 13px;
   color: #242424;
-  margin-left: 41px;
+  
 }
 
 .blok1__button1 
 { 
+  display: flex;
+  justify-content: center;
+  padding: 10px;
   width: 196px;
   height: 40px;
   margin-top: 21px;

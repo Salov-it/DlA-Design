@@ -953,7 +953,7 @@
 {
   display: flex;
   flex-direction: column;
- align-items: center;
+  align-items: center;
   width: 1176px;
   height: 650px;
   position: relative;
@@ -1011,6 +1011,103 @@
 {
   padding: 10px;
 }
+
+.main_container10 
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1176px;
+  height: 900px;
+  position: relative;
+  background-color: #4CFD79;
+}
+
+.main_container10__title 
+{ 
+  font-size: 40px;
+  position: relative;
+  z-index: 2;
+}
+.main_container10__title2 
+{
+  font-size: 40px;
+}
+
+.main_container10__line 
+{
+  width: 630px;
+  height: 10px;
+  position: absolute; top: 18px; left: 240px;
+  z-index: 1;
+  background-color: #FFBF00;
+}
+.main_container10__img 
+{
+
+  position: absolute; top: 130px; left: 20px;
+}
+
+.main_container10__flex 
+{ 
+  justify-content: flex-start;
+  position: absolute; top: 130px; left: 600px;
+  background-color: #E3969E;
+}
+
+.main_container10_flex__text 
+{
+  width: 556px;
+}
+
+.main_container10_flex__img-like 
+{
+  position: absolute; top: 80px;
+}
+.main_container10_flex__img-like2 
+{
+  position: absolute; top: 115px;
+}
+.main_container10_flex__img-like3 
+{
+  position: absolute; top: 155px;
+}
+.main_container10_flex__img-like4 
+{
+  position: absolute; top: 195px;
+}
+.main_container10_flex__img-like5 
+{
+   position: absolute; top: 235px;
+}
+.main_container10_flex__img-like6 
+{
+  position: absolute; top: 295px;
+}
+.main_container10_flex__img-like7 
+{
+   position: absolute; top: 330px;
+}
+
+.main_container10_flex__button 
+{ display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 280px;
+  height: 45px;
+  margin-top: 90px;
+  background-color: #FFBF00;
+}
+
+.main_container10_flex__button a
+{
+  font-family: 'Montserrat-SemiBold';
+  font-size: 13px;
+  color: #242424;
+
+}
+
+
 
 
 

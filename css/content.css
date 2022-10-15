@@ -1115,7 +1115,7 @@
   flex-direction: column;
   align-items: center;
   width: 1176px;
-  height: 900px;
+  height: 600px;
   position: relative;
   background-color: #C91DF5;
 }
@@ -1197,6 +1197,7 @@
   font-family: 'Montserrat';
   font-size: 15px;
   color: 242424;
+  margin-top: 10px;
 
 }
 .main_container11_flex_blok2__text 
@@ -1204,6 +1205,7 @@
   font-family: 'Montserrat';
   font-size: 15px;
   color: 242424;
+  margin-top: 10px;
 }
 .main_container11_flex_blok3__text 
 {
@@ -1211,6 +1213,7 @@
   font-family: 'Montserrat';
   font-size: 15px;
   color: 242424;
+  margin-top: 10px;
 }
 .main_container11_flex_blok4__text 
 {
@@ -1220,6 +1223,7 @@
   font-size: 15px;
   color: 242424;
   width: 261px;
+  margin-top: 10px;
 }
 .main_container11_flex_blok5__text 
 {
@@ -1227,18 +1231,21 @@
   font-size: 15px;
   color: 242424;
   margin-left: 15px;
+  margin-top: 10px;
 }
 .main_container11_flex_blok6__text 
 {
   font-family: 'Montserrat';
   font-size: 15px;
   color: 242424;
+  margin-top: 10px;
 }
 .main_container11_flex_blok7__text 
 { 
   font-family: 'Montserrat';
   font-size: 15px;
   color: 242424;
+  margin-top: 10px;
 }
 
 .main_container11_flex_blok8__text 
@@ -1246,8 +1253,91 @@
   font-family: 'Montserrat';
   font-size: 15px;
   color: 242424;
-  
+  margin-top: 10px;
 }
+
+.main_container12 
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1176px;
+  height: 210px;
+  position: relative;
+  background-color: #08CDD4;
+}
+.main_container12__title 
+{
+  font-size: 40px;
+  position: relative;
+  z-index: 2;
+}
+.main_container12__line 
+{
+  width: 220px;
+  height: 10px;
+  background-color: #FFBF00;
+  position: absolute; top: 18px; left: 545px;
+  z-index: 1;
+}
+
+.main_container12__flex 
+{ 
+  display: flex;
+  justify-content: space-between;
+  width: 1176px;
+  margin-top: 50px;
+  background-color: #08D467;
+}
+
+.container12_flex__blok 
+{ display: flex;
+  justify-content: center;
+  width: 264px;
+  height: 90px;
+  background-color: #FFFFFF;
+}
+
+.container12_flex__blok2 
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 264px;
+  height: 90px;
+  background-color: #FFFFFF;
+}
+.container12_flex__blok3 
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 264px;
+  height: 90px;
+  background-color: #FFFFFF;
+}
+.container12_flex__blok4 
+{
+   display: flex;
+  justify-content: center;
+  width: 264px;
+  height: 90px;
+  background-color: #FFFFFF;
+}
+
+.container12_flex_blok3__img 
+{
+  width: 161px;
+  height: 52px;
+}
+.container12_flex_blok4__img 
+{
+  width: 142px;
+  height: 71px;
+}
+
+
+
 
 
 

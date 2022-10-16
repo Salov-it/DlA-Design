@@ -6,8 +6,6 @@
   flex-direction: column;
   align-items: center;
   width: 1910px;
-  background-color: #FC0FE9;
- 
 }
 
 .main_container
@@ -311,7 +309,6 @@
   align-items: center;
   width: 1176px;
   height: 630px;
-  background-color: #4FD6E3;
 }
 
 .main_container4__title 
@@ -368,7 +365,6 @@
   align-items: center;
   width: 1176px;
   height: 400px;
-  background-color: #58FDDE;
 }
 .main_container5__title 
 {
@@ -413,7 +409,6 @@
   align-items: center;
   width: 1176px;
   height: 840px;
-  background-color: #64C5FA;
 }
 
 .main_container6__title 
@@ -450,15 +445,11 @@
   justify-content: flex-start;
   flex-wrap: wrap;
   margin-top: 20px;
-
-  background-color: #1AEDBC;
 }
 
 
 .main_container6__img1
 {
-  
-  background-color: #1A90ED;
   margin-left: 15px;
 }
 
@@ -492,7 +483,6 @@
 
 .main_container6__img2 
 {
-   background-color: #1A90ED;
    margin-left: 15px;
 }
 
@@ -524,8 +514,6 @@
 }
 .main_container6__img3 
 {
- 
-  background-color: #1A90ED;
   margin-left: 15px;
 }
 .main_container6__img3-2 
@@ -558,7 +546,6 @@
 
 .main_container6__img4 
 { 
-  background-color: #1A90ED;
   margin-left: 15px;
   margin-top: 20px;
 }
@@ -588,8 +575,6 @@
 }
 .main_container6__img5 
 { 
-
-  background-color: #1A90ED;
   margin-left: 27px;
   margin-top: 20px;
 }
@@ -644,7 +629,6 @@
   width: 1176px;
   height: 520px;
   position: relative;
-  background-color: #F52BA7;
 }
 
 .main_container7__text 
@@ -667,9 +651,7 @@
 
 .main_container7__text-list
 {
-  background-color: #39F858;
   position: absolute; left: 470px; top: 170px;
-
 }
 .main_container7__img-list 
 {
@@ -698,7 +680,6 @@
   display: flex;
   height: 80px;
   position: absolute; top: 400px; left: 468px;
-  background-color: #D98D8B;
 }
 
 .main_container7_container-flex__img2 
@@ -726,7 +707,6 @@
   width: 1176px;
   height: 830px;
   position: relative;
-  background-color: #D98BBD;
 }
 
 .main_container8__title 
@@ -959,7 +939,6 @@
   width: 1176px;
   height: 650px;
   position: relative;
-  background-color: #D4A646;
 }
 
 .main_container9__flex 
@@ -970,7 +949,6 @@
   width: 1146px;
   height: 500px;
   margin-top: 50px;
-  background-color: #3BFF66;
 }
 
 
@@ -1022,7 +1000,6 @@
   width: 1176px;
   height: 730px;
   position: relative;
-  background-color: #4CFD79;
 }
 
 .main_container10__title 
@@ -1054,7 +1031,6 @@
 { 
   justify-content: flex-start;
   position: absolute; top: 130px; left: 600px;
-  background-color: #E3969E;
 }
 
 .main_container10_flex__text 
@@ -1117,7 +1093,6 @@
   width: 1176px;
   height: 600px;
   position: relative;
-  background-color: #C91DF5;
 }
 .main_container11__flex 
 { 
@@ -1126,7 +1101,6 @@
     flex-wrap: wrap;
     width: 1146px;
     height: 500px;
-    background-color: #3BFF66;
 }
 
 .main_container11__title 
@@ -1148,48 +1122,39 @@
 .main_container11_flex__blok
 {
   justify-content: flex-start;
-  background-color: #F5391D;
 }
 
 .main_container11_flex__blok2
 { 
   justify-content: flex-start;
   margin-left: 10px;
-  background-color: #F5391D;
 }
 .main_container11_flex__blok3
 {
   justify-content: flex-start;
-  background-color: #F5391D;
 }
 .main_container11_flex__blok4
 {
    justify-content: flex-start;
-  background-color: #F5391D;
 }
 .main_container11_flex__blok5
 {
    justify-content: flex-start;
-  background-color: #F5391D;
 }
 .main_container11_flex__blok6 
 {
    justify-content: flex-start;
    margin-left: -180px;
-  background-color: #F5391D;
-
 }
 .main_container11_flex__blok7
 {
    justify-content: flex-start;
    margin-left: -80px;
-  background-color: #F5391D;
 }
 .main_container11_flex__blok8
 {
    justify-content: flex-start;
   position: relative; top: ; left: -110px;
-  background-color: #F5391D;
 }
 
 .main_container11_flex_blok__text 
@@ -1264,7 +1229,6 @@
   width: 1176px;
   height: 210px;
   position: relative;
-  background-color: #08CDD4;
 }
 .main_container12__title 
 {
@@ -1287,7 +1251,6 @@
   justify-content: space-between;
   width: 1176px;
   margin-top: 50px;
-  background-color: #08D467;
 }
 
 .container12_flex__blok 
@@ -1343,7 +1306,6 @@
   width: 1176px;
   height: 530px;
   margin-top: 40px;
-  background-color: #0AF635;
   position: relative;
 }
 
@@ -1411,7 +1373,6 @@
   align-items: center;
   width: 1176px;
   height: 530px;
-  background-color: #0FFEDD;
   position: relative;
 }
 .main_container14__title 
@@ -1423,7 +1384,6 @@
 {
   display: flex;
   flex-direction: column;
-  background-color: #FF73A4;
   position: relative;
   position: absolute; top: 120px; left: 20px;
 }

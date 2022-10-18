@@ -47,7 +47,7 @@
 
 .blok2__title h2
 {
-  margin-top: -20px;
+  margin-top: -3px;
   margin-left: -140px;
 }
 
@@ -119,7 +119,7 @@
 {
   width: 250px;
   height: 10px;
-  position: relative; top: 80px; left: -280px;
+  position: relative; top: 60px; left: -280px;
   z-index: -1;
   background-color: #FFBF00;
 }
@@ -128,7 +128,7 @@
 {
   width: 483px;
   height: 10px;
-  position: relative; top: -56px; left: -161px;
+  position: relative; top: -40px; left: -161px;
   z-index: -1;
   background-color: #FFBF00;
 }
@@ -174,7 +174,7 @@
   width: 590px;
   height: 10px;
   z-index: 1;
-  position: absolute; top: 1932px; left: 645px;
+  position: absolute; top: 1925px; left: 640px;
  
   background-color: #FFBF00;
 }
